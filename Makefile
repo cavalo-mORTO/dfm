@@ -1,7 +1,7 @@
-PROG=dfm
+PROG=amarakonsdfm
 PREFIX=/usr/local
 BINDIR=${PREFIX}/bin
-LICENSEDIR=${PREFIX}/share/licenses/dfm
+LICENSEDIR=${PREFIX}/share/licenses/amarakonsdfm
 
 install:
 	chmod 755 ${PROG}

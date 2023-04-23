@@ -1,0 +1,17 @@
+pkgbase = amarakonsdfm
+	pkgdesc = amarakonsdfm is a simple file manager that uses dmenu
+	pkgver = 1.1
+	pkgrel = 1
+	url = https://github.com/cavalo-mORTO/dfm
+	arch = i686
+	arch = x86_64
+	license = AGPL-3
+	depends = dmenu
+	depends = perl
+	depends = xdg-utils
+	optdepends = xclip
+	provides = amarakonsdfm
+	source = https://github.com/cavalo-mORTO/dfm/raw/master/amarakonsdfm-1.1.tar.gz
+	sha256sums = 71661839a0840a6cd51f5277070c644e6aa1f1a037d4c82bf2d799ff4fb88803
+
+pkgname = amarakonsdfm
